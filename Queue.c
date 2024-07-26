@@ -1,4 +1,4 @@
-// QUEUE
+// QUEUE - Array implementation
 
 // basic operations of a queue:
 // - Enqueue (insert): adds element to back to queue
